@@ -111,4 +111,3 @@ C:\ERP\ERP\bin\Antlr3.Runtime.pdb
 C:\ERP\ERP\bin\Newtonsoft.Json.xml
 C:\ERP\ERP\obj\Debug\ERP.dll
 C:\ERP\ERP\obj\Debug\ERP.pdb
-C:\ERP\ERP\obj\Debug\ERP.csprojResolveAssemblyReference.cache
